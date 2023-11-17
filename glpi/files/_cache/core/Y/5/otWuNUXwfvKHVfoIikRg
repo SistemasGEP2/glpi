@@ -1,0 +1,37 @@
+1700167362
+424f25d2564925b0478dbe207b107db28ec5f240
+a:1:{s:62:"bn_count_tickets_incoming_055e813c-b0ce-4687-91ef-559249e8ddd8";s:1295:"      <style>
+         #bn_390219433 {
+            background-color: #6fd169;
+            color: #1d541a;
+         }
+
+         #bn_390219433:hover {
+            background-color: #3fb638;
+            border: 1px solid #2b7b26;
+         }
+
+         .theme-dark #bn_390219433 {
+            background-color: #1d541a;
+            color: #6fd169;
+         }
+
+         .theme-dark #bn_390219433:hover {
+            background-color: #3fb638;
+            color: #1d541a;
+            border: 1px solid #2b7b26;
+         }
+      </style>
+      <a href='/glpi-10.0.7/glpi/front/ticket.php?criteria%5B0%5D%5Bfield%5D=12&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset'
+         id="bn_390219433"
+         class="card big-number  filter-dates filter-dates_mod filter-itilcategory filter-group_tech filter-user_tech filter-requesttype filter-location"
+         title="">
+         <span class="content">            <span title="9"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">9</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Peticiones entrantes">Peticiones entrantes</div>
+         <i class="main-icon ti ti-alert-circle"></i>
+      </a>";}

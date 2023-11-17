@@ -1,0 +1,9 @@
+2023-11-15 15:25:41 [2@JUR18-MJ0GH4KR]
+0 seconds for "GLPI Inventory plugin installation" @ 2023-11-15 15:25:41 [2@JUR18-MJ0GH4KR]
+0 seconds for "Clean data from old installation of the plugin" @ 2023-11-15 15:25:41 [2@JUR18-MJ0GH4KR]
+0 seconds for "Clean rules from old installation of the plugin" @ 2023-11-15 15:25:42 [2@JUR18-MJ0GH4KR]
+1 segundos for "Creation tables in database" @ 2023-11-15 15:25:42 [2@JUR18-MJ0GH4KR]
+0 seconds for "Creation of folders" @ 2023-11-15 15:25:44 [2@JUR18-MJ0GH4KR]
+2 seconds for "Initialize profiles" @ 2023-11-15 15:25:45 [2@JUR18-MJ0GH4KR]
+1 segundos for "Initialize configuration" @ 2023-11-15 15:25:45 [2@JUR18-MJ0GH4KR]
+0 seconds for "Initialize agent TASKS" @ 

@@ -1,0 +1,15 @@
+[2023-11-15 15:18:12] glpisqllog.ERROR: DBmysql::query() in C:\xampp\htdocs\glpi-10.0.7\glpi\src\DBmysql.php line 370
+  *** MySQL query error:
+  SQL: CREATE OR REPLACE VIEW `glpi_plugin_archidata_masterswcomponents` (`id`, `entities_id`, `name`, `comment`) AS
+SELECT `id`, `entities_id`, `completename`, `comment` from `glpi_plugin_archisw_swcomponents` where level = '1'
+  Error: Table 'glpi.glpi_plugin_archisw_swcomponents' doesn't exist
+  Backtrace :
+  src\DBmysql.php:1010                               
+  marketplace\archidata\hook.php:35                  DBmysql->runFile()
+  src\Plugin.php:876                                 plugin_archidata_install()
+  :                                                  Plugin->install()
+  src\Marketplace\Controller.php:545                 call_user_func()
+  src\Marketplace\Controller.php:435                 Glpi\Marketplace\Controller->setPluginState()
+  src\Marketplace\Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax\marketplace.php:74                            Glpi\Marketplace\Controller->downloadPlugin()
+  {"user":"2@JUR18-MJ0GH4KR"} 

@@ -1,0 +1,37 @@
+1700160817
+d93248e8b9e06d068da9db8473d3b85a10dd3673
+a:1:{s:62:"bn_count_NetworkEquipment_c537e334-d584-43bc-b6de-b4a939143e89";s:1206:"      <style>
+         #bn_1076690065 {
+            background-color: #bfe7ea;
+            color: #379fa6;
+         }
+
+         #bn_1076690065:hover {
+            background-color: #85d1d7;
+            border: 1px solid #4cbcc4;
+         }
+
+         .theme-dark #bn_1076690065 {
+            background-color: #379fa6;
+            color: #bfe7ea;
+         }
+
+         .theme-dark #bn_1076690065:hover {
+            background-color: #85d1d7;
+            color: #379fa6;
+            border: 1px solid #4cbcc4;
+         }
+      </style>
+      <a href='/glpi-10.0.7/glpi/front/networkequipment.php?reset=reset'
+         id="bn_1076690065"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Dispositivos de red">Dispositivos de red</div>
+         <i class="main-icon fas fa-network-wired"></i>
+      </a>";}

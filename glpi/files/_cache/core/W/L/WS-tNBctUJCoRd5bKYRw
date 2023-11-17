@@ -1,0 +1,37 @@
+1700168054
+1da99ba10e1a2a73b815f8ffb08faa12f18879b6
+a:1:{s:78:"plugin_glpiinventory_nb_networkequipement_3e825b1d-0391-418b-acf0-be824ffe9a0c";s:1265:"      <style>
+         #bn_695701855 {
+            background-color: #606f91;
+            color: #d8dce5;
+         }
+
+         #bn_695701855:hover {
+            background-color: #8b97b2;
+            border: 1px solid #b9c0d1;
+         }
+
+         .theme-dark #bn_695701855 {
+            background-color: #d8dce5;
+            color: #606f91;
+         }
+
+         .theme-dark #bn_695701855:hover {
+            background-color: #8b97b2;
+            color: #d8dce5;
+            border: 1px solid #b9c0d1;
+         }
+      </style>
+      <a href='/glpi-10.0.7/glpi/front/networkequipment.php?criteria%5B0%5D%5Blink%5D=AND&criteria%5B0%5D%5Bfield%5D=72&criteria%5B0%5D%5Bsearchtype%5D=contains&criteria%5B0%5D%5Bvalue%5D=GLPI%20Native%20Inventory&reset=reset'
+         id="bn_695701855"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Dispositivos de red inventoried">Dispositivos de red inventoried</div>
+         <i class="main-icon fas fa-network-wired"></i>
+      </a>";}

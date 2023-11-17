@@ -1,0 +1,11 @@
+2023-11-15 18:29:42 [2@JUR18-MJ0GH4KR]
+User ID: 2 tried to access a non-existent item /glpi-10.0.7/glpi/front/rulemailcollector.form.php?id=64&formoptions=%20data-track-changes%3D%27true%27. Additional information: The item could not be found in the database
+	Stack Trace:
+		C:\xampp\htdocs\glpi-10.0.7\glpi\src\CommonDBTM.php:6330 displayNotFoundError()
+		C:\xampp\htdocs\glpi-10.0.7\glpi\src\CommonDBTM.php:6439 displayItemNotFoundPage()
+		C:\xampp\htdocs\glpi-10.0.7\glpi\front\rule.common.form.php:102 displayFullPageForItem()
+		C:\xampp\htdocs\glpi-10.0.7\glpi\front\rulemailcollector.form.php:40 include()
+2023-11-15 20:51:39 [2@JUR18-MJ0GH4KR]
+CSRF check failed for User ID: 2 at /glpi-10.0.7/glpi/front/crontask.form.php2023-11-15 21:42:46 [2@JUR18-MJ0GH4KR]
+CSRF check failed for User ID: 2 at /glpi-10.0.7/glpi/front/crontask.form.php2023-11-15 22:13:30 [2@JUR18-MJ0GH4KR]
+CSRF check failed for User ID: 2 at /glpi-10.0.7/glpi/front/notificationmailingsetting.form.php

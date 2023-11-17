@@ -1,0 +1,37 @@
+1700151634
+d1b2ac3d13885597c891aa7c84f5dde343b980ac
+a:1:{s:60:"bn_count_tickets_solved_5e9759b3-ee7e-4a14-b68f-1ac024ef55ee";s:1296:"      <style>
+         #bn_994672395 {
+            background-color: #d8d8d8;
+            color: #727272;
+         }
+
+         #bn_994672395:hover {
+            background-color: #b2b2b2;
+            border: 1px solid #8c8c8c;
+         }
+
+         .theme-dark #bn_994672395 {
+            background-color: #727272;
+            color: #d8d8d8;
+         }
+
+         .theme-dark #bn_994672395:hover {
+            background-color: #b2b2b2;
+            color: #727272;
+            border: 1px solid #8c8c8c;
+         }
+      </style>
+      <a href='/glpi-10.0.7/glpi/front/ticket.php?criteria%5B0%5D%5Bfield%5D=12&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=5&reset=reset'
+         id="bn_994672395"
+         class="card big-number  filter-dates filter-dates_mod filter-itilcategory filter-group_tech filter-user_tech filter-requesttype filter-location"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Peticiones resueltas">Peticiones resueltas</div>
+         <i class="main-icon far fa-check-square"></i>
+      </a>";}

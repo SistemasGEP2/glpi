@@ -1,0 +1,37 @@
+1700160865
+36e1376646785bbf3a7e3b49fcc9e1e617a99754
+a:1:{s:52:"bn_count_Entity_9b82951a-ba52-45cc-a2d3-1d238ec37adf";s:1079:"      <style>
+         #bn_1631868313 {
+            background-color: #f9f9f9;
+            color: #939393;
+         }
+
+         #bn_1631868313:hover {
+            background-color: #d3d3d3;
+            border: 1px solid #adadad;
+         }
+
+         .theme-dark #bn_1631868313 {
+            background-color: #939393;
+            color: #f9f9f9;
+         }
+
+         .theme-dark #bn_1631868313:hover {
+            background-color: #d3d3d3;
+            color: #939393;
+            border: 1px solid #adadad;
+         }
+      </style>
+      <a href='/glpi-10.0.7/glpi/front/entity.php?reset=reset'
+         id="bn_1631868313"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="1"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">1</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Entidad">Entidad</div>
+         <i class="main-icon ti ti-stack"></i>
+      </a>";}

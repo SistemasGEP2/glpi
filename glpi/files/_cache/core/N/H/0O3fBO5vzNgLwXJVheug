@@ -1,0 +1,37 @@
+1700168054
+4c139c31ef1c8ea6c9ff30030d9ec02cb3bca94c
+a:1:{s:70:"plugin_glpiinventory_nb_unmanaged_87795820-0c42-496d-969a-e5459effc407";s:1126:"      <style>
+         #bn_1258795386 {
+            background-color: #e69138;
+            color: #492a09;
+         }
+
+         #bn_1258795386:hover {
+            background-color: #ba6b17;
+            border: 1px solid #76440f;
+         }
+
+         .theme-dark #bn_1258795386 {
+            background-color: #492a09;
+            color: #e69138;
+         }
+
+         .theme-dark #bn_1258795386:hover {
+            background-color: #ba6b17;
+            color: #492a09;
+            border: 1px solid #76440f;
+         }
+      </style>
+      <a href='/glpi-10.0.7/glpi/front/unmanaged.php?reset=reset'
+         id="bn_1258795386"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Número de Dispositivos no administrados">Número de Dispositivos no administrados</div>
+         <i class="main-icon ti ti-question-mark"></i>
+      </a>";}
